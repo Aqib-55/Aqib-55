@@ -1,7 +1,7 @@
 ![logo](https://github.com/Aqib-55/Aqib-55/blob/main/AI.jpg)
 
 <h1 align="center">Hi 👋, I'm Aqib Raza</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Ai & Ml developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/BATPum-9rBgY_WWnKpMyV79Alk9XuyxEtlYQ4LOcMAI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3FnUVVn/Z0FDM1BmdjY4N3FQ/Qy8yMDAuZ2lmP2Np/ZD03OTBiNzYxMTEw/eWVtM2gzbmxqb2sx/YXU2czNjOXh6am4z/a2w3aHF4NDIwcGhs/ajUmZXA9djFfZ2lm/c19zZWFyY2gmcmlk/PTIwMC5naWYmY3Q9/Zw.gif">
 
