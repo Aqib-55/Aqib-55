@@ -8,6 +8,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aqib-55&label=Profile%20views&color=0e75b6&style=flat" alt="aqib-55" /> </p>
 
 - 🔭 I made Project **Smart Attendance System**
+- 🔭 I made Project **Driver Drowsiness Detection System**
+- 🔭 I made Project **Sql Library Management**
+- 🔭 I made Project **Movie Recommendation System**
+- 🔭 I made Project **Data Visualizations using Excel**
 
 - 🌱 I’m currently learning **Android Development**
 
