@@ -13,7 +13,7 @@
 - 🔭 I made Project **Movie Recommendation System**
 - 🔭 I made Project **Data Visualizations using Excel**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Neural Network and it's Algorithm**
 
 - 👨‍💻 All of my projects are available at [Aqib-55](Aqib-55)
 
