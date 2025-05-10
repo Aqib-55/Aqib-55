@@ -1,4 +1,4 @@
-![logo](https://github.com/Aqib-55/Aqib-55/blob/main/AI.jpg)
+![logo](8923985.jpg)
 
 <h1 align="center">Hi 👋, I'm Aqib Raza</h1>
 <h3 align="center">A passionate Ai & Ml developer from India</h3>
